@@ -59,6 +59,9 @@
                     <properties> <property>
                         <name>usedefaultlisteners</name>
                         <value>false</value>
+                            <suiteXmlFiles>
+                                <suiteXmlFile>testng.xml</suiteXmlFile>
+                            </suiteXmlFiles>
                     </property>
                         <property>
                             <name>listener</name>
